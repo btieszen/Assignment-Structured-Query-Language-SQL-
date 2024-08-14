@@ -1,0 +1,1 @@
+Hello, I hope I uploded the file correctly.  The database has members and woroutsessions.  New members are added  and added to workoutsessions.  The time was changed for Jane doe and John doe was deleted
